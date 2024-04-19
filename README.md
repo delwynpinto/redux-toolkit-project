@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+### Sample project with Redux Toolkit
+
+This is a somple project created to use concept of Redux toolkit.
+The project simulates the reservation and customer order flow of a restaurant. Data is stored in a single store, with seperate slices for reservations & orders.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
